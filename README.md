@@ -1,3 +1,3 @@
-# Research project prospectus
+# Accessible Weather Forecast Visualization - Prospectus
 
-Files & examples you'll need to create a good prospectus.
+Find our prospectus in CS573Prospectus.pdf.
